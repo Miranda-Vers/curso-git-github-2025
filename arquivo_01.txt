@@ -8,3 +8,5 @@ git commit -m " nome da att"
 git diff (vamo ver oque ta dentro)
 esta ok dale pra frente 
 adicionou mesmo processo de dnv
+
+outra add
