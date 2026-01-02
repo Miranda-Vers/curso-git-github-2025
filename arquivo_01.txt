@@ -16,3 +16,8 @@ dps de tudo votlamos a main ou seja git checkout main
 damos git merge secundaria01
 e secundaria 02 
 todos os saves separados vao todos para main que se encontra vazia sem as atualizações e dps disso recebendo ambos os arquivos 
+
+Lembrando que só era receber o arquivo que esta e foi feito nela ou seja a GENTE  n trabalha na main e trabalha separadamente nas outras branchs 
+onde quando formos juntar tudo a gente da git merge na própria main
+
+ 
