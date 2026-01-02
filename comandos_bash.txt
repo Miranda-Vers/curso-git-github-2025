@@ -8,3 +8,43 @@ exemplo cat comandos bash.txt só vai aparecer oque tem dentro do arquivo se eu 
 cd e o nome do aruvio ai eu escolho ele
 
 Control + L limpa o terminal 
+
+Lembrar ta no 0?
+primeiro vamo pro Desktop
+cd Desktop 
+
+tamo na área de trabalho? Sim
+vamos para a pasta 
+cd curso_git_2025
+
+e voula estamos na pasta (se quiser confirme utilizando o comando pwd)
+
+excluir pasta? 
+git errado -> rm -rf .git/
+
+iniciar um repositório 
+git init .
+
+Primeiro comando git
+
+estamos sem save (sem checkpoint)
+
+escolher oque vai para meu commit(meu save)
+
+git sinaliza oque vai entrar no checkpoint
+
+git commit -m "primeiros comandos bash"
+deu fatal (precisamos falar quem esta assinando esse save)
+
+para agente assinar precisamos do nome e email do usuário que irar fazer essa alteração 
+git config --global user.email "-----" para verificar osq eu já estão cadastrados é só colocar
+ git config --global user.email
+e o nome 
+git config --global user.name "----" e mesmo processo do email para verificar
+
+agora ar git status 
+
+ e fazer nossa commit 
+git commit -m "primeiros comandos bash"
+
+
