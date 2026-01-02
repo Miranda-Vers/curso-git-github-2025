@@ -10,3 +10,9 @@ esta ok dale pra frente
 adicionou mesmo processo de dnv
 
 outra add
+ 
+dps de tudo votlamos a main ou seja git checkout main 
+
+damos git merge secundaria01
+e secundaria 02 
+todos os saves separados vao todos para main que se encontra vazia sem as atualizações e dps disso recebendo ambos os arquivos 
