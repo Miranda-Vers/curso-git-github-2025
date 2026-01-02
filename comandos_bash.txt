@@ -1,0 +1,10 @@
+ls -> lista arquivos
+cd -> move entre diretórios 
+pwd -> mostra o diretório de trabalho
+
+Lembrar precisa salvar para que o comando cat funcione
+exemplo cat comandos bash.txt só vai aparecer oque tem dentro do arquivo se eu salvar ou seja control+S
+
+cd e o nome do aruvio ai eu escolho ele
+
+Control + L limpa o terminal 
