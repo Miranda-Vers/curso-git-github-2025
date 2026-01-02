@@ -1,6 +1,12 @@
 ls -> lista arquivos
 cd -> move entre diretórios 
 pwd -> mostra o diretório de trabalho
+cat ->exibe contéudo do arquivo 
+rm -> remove arquivo de diretorio
+rm -rf -> remove de forma recursiva e forçada todos diretórios 
+
+git add . (adiciona tudo e todos os arquvos em espera de uma vez)
+
 
 Lembrar precisa salvar para que o comando cat funcione
 exemplo cat comandos bash.txt só vai aparecer oque tem dentro do arquivo se eu salvar ou seja control+S
@@ -53,5 +59,5 @@ nano comandos_git. txt
 salvar coisa nele Control + O e da enter 
 sair control + X
 E ele vai criar outro arquivo txt
-.
+
 
