@@ -1,1 +1,3 @@
-opa baita curso. Legal dms!!!! 
+opa baita curso. Legal dms!!!!
+
+se der conflito precisamos resolver manualmente e escolher a versão final do arquivo vai parecer que duas pessoas / usuários mexeram na mesma linha de código devemos editart na mão mesmo o arquivo add . e depois dar outro commit - m finalizando o conflit que aconteceu
