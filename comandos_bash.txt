@@ -47,4 +47,7 @@ agora ar git status
  e fazer nossa commit 
 git commit -m "primeiros comandos bash"
 
+leitor de texto do git comandos 
+nano comandos_git. txt
+
 
