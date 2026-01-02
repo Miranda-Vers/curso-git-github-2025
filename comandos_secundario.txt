@@ -1,0 +1,8 @@
+git checkout main
+ou o nome de outra como secundaria
+ 
+esse 
+
+estou em outra main
+posso usar o comando 
+git merge "nome" para trazer informações de outra main como a segundaria para a main primaria
