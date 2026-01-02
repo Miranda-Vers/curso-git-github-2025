@@ -1,0 +1,10 @@
+lembrando 
+adicionamos aqui
+Control + S 
+git status
+vamo de git add .
+git status
+git commit -m " nome da att"
+git diff (vamo ver oque ta dentro)
+esta ok dale pra frente 
+adicionou mesmo processo de dnv
