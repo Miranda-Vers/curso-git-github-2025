@@ -50,4 +50,8 @@ git commit -m "primeiros comandos bash"
 leitor de texto do git comandos 
 nano comandos_git. txt
 
+salvar coisa nele Control + O e da enter 
+sair control + X
+E ele vai criar outro arquivo txt
+.
 
